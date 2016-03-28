@@ -1,0 +1,13 @@
+/*
+function An($name) {
+  
+  $num =rand(6,15);
+  
+     echo $name." ".$num;
+}
+
+writeMsg(Abhjeet);
+
+
+
+*/
